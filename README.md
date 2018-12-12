@@ -33,7 +33,7 @@ npm run build --report
 - 1，使用vue
 - 2，使用echarts 
 - 3, 使用json-server 
-- 4, 使用node起一个简单的服务
+- 4, 使用node起一个简单的服务,服务于接口
 - 5, 使用axios
 - 6, vue-router的使用规则(异步加载，和同步加载)
 - 7, 回话拦截的使用（localstorage or cookie）
